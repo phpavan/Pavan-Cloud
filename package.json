@@ -1,0 +1,18 @@
+{
+  "name": "my-astro-site",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^2.0.0",
+    "@astrojs/vercel": "^2.0.0"
+  },
+  "devDependencies": {
+    "@astrojs/markdown-remark": "^2.0.0"
+  }
+}
